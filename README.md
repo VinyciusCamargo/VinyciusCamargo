@@ -4,7 +4,7 @@
 
 **Estudante de Desenvolvimento de Sistemas · SENAI Brás**
 
-Sou estudante de Tecnologia, atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI e o Bacharelado em Ciência e Tecnologia (BCT) na UFABC.
+Sou estudante de Tecnologia, atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI e o Bacharelado em Ciência e Tecnologia (BC&T) na UFABC.
 
 Tenho interesse em desenvolvimento de software e estou construindo minha base em programação e banco de dados. Busco aprender na prática através de projetos e evoluir para conquistar minha primeira oportunidade profissional em TI.
 
