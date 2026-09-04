@@ -20,9 +20,9 @@ Tenho interesse em desenvolvimento de software e estou construindo minha base em
 ---
 
 ## 🎓 Formação
-
+* 🎓 **Bacharelado em Ciência e Tecnologia (BC&T)** — UFABC
 * 🎓 **Técnico em Desenvolvimento de Sistemas** — SENAI Brás
-* 🎓 **Bacharelado em Ciência e Tecnologia (BCT)** — UFABC
+  
 
 ---
 
