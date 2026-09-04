@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Vinycius Camargo
 
-**Estudante de Desenvolvimento de Sistemas · SENAI Brás**
-
 **Ciência e Tecnologia · UFABC · São Bernardo do Campo, SP**
+
+**Estudante de Desenvolvimento de Sistemas · SENAI Brás**
 
 Sou estudante de Tecnologia, atualmente cursando o Técnico em Desenvolvimento de Sistemas no SENAI e o Bacharelado em Ciência e Tecnologia (BCT) na UFABC.
 
